@@ -1,0 +1,13 @@
+brands:
+- apple
+- samsung
+- one plus
+- xiaomi
+- lg
+quantity: 50
+price:
+  apple: 1000€-2000€
+  samsung: 400€-1500€
+  one plus: 400€-1500€
+  xiaomi: 200€-1500€
+  lg: 200€-1500€
