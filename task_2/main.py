@@ -75,7 +75,7 @@ def write_order_to_json(item, quantity, price, buyer, date):
     json_dict["orders"] = orders
 
     with open(json_file, 'w', encoding='utf-8') as f_n:
-        json.dump(json_dict, f_n, sort_keys=True, indent=4)
+        json.dump(json_dict, f_n, sort_keys=True, indent=4, ensure_ascii=False)
 
 
 orders_list = [
