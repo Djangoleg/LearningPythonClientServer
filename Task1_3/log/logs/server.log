@@ -1,0 +1,10 @@
+2022-01-29 02:02:17,570 CRITICAL config_server_log.py Критическая ошибка
+2022-01-29 02:02:17,571 ERROR config_server_log.py Ошибка
+2022-01-29 02:02:17,571 DEBUG config_server_log.py Отладочная информация
+2022-01-29 02:02:17,571 INFO config_server_log.py Информационное сообщение
+2022-01-29 02:39:31,627 INFO server.py Start local server on port: 7777
+2022-01-29 02:40:00,641 INFO server.py {'action': 'presence', 'time': 1643413200.639112, 'user': {'account_name': 'Super man'}}
+2022-01-29 02:40:24,447 INFO server.py {'action': 'presence', 'time': 1643413224.4467657, 'user': {'account_name': 'Super man'}}
+2022-01-29 02:43:35,057 INFO server.py Start local server on port: 7777
+2022-01-29 02:43:53,578 INFO server.py {'action': 'presence', 'time': 1643413433.5760252, 'user': {'account_name': 'Super man'}}
+2022-01-29 02:44:07,281 INFO server.py {'action': 'presence', 'time': 1643413447.281555, 'user': {'account_name': 'Super man'}}
