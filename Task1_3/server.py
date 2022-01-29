@@ -1,12 +1,13 @@
+import logging
 import socket
 import sys
 import json
 from common.variables import ACTION, ACCOUNT_NAME, RESPONSE, MAX_CONNECTIONS, \
-    PRESENCE, TIME, USER, ERROR, DEFAULT_PORT
+    PRESENCE, TIME, USER, ERROR, DEFAULT_PORT, LOGGER_NAME_SERVER
 from common.utils import get_message, send_message
 
-from  log.config_server_log import get_server_logger
-logger = get_server_logger()
+from  log.config_server_log import server_logger
+logger = logging.getLogger(LOGGER_NAME_SERVER)
 
 class Server:
 

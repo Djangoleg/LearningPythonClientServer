@@ -1,8 +1,6 @@
-2022-01-29 01:46:25,127 CRITICAL config_client_log.py Критическая ошибка
-2022-01-29 01:46:25,127 ERROR config_client_log.py Ошибка
-2022-01-29 01:46:25,128 DEBUG config_client_log.py Отладочная информация
-2022-01-29 01:46:25,128 INFO config_client_log.py Информационное сообщение
-2022-01-29 02:40:00,642 INFO client.py 200 : OK
-2022-01-29 02:40:24,448 INFO client.py 200 : OK
-2022-01-29 02:43:53,579 INFO client.py 200 : OK
-2022-01-29 02:44:07,282 INFO client.py 200 : OK
+2022-01-29 14:24:39,386 CRITICAL config_client_log.py Критическая ошибка
+2022-01-29 14:24:39,386 ERROR config_client_log.py Ошибка
+2022-01-29 14:24:39,386 DEBUG config_client_log.py Отладочная информация
+2022-01-29 14:24:39,386 INFO config_client_log.py Информационное сообщение
+2022-01-29 14:29:22,921 INFO client.py 200 : OK
+2022-01-29 14:30:29,155 INFO client.py 200 : OK

@@ -31,3 +31,6 @@ LOGS_DIR = '\logs'
 
 FILE_NAME_CLIENT_LOG = 'client.log'
 FILE_NAME_SERVER_LOG = 'server.log'
+
+LOGGER_NAME_CLIENT = 'client'
+LOGGER_NAME_SERVER = 'server'

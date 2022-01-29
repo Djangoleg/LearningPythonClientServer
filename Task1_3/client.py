@@ -1,15 +1,15 @@
 """Программа-клиент"""
-
+import logging
 import sys
 import json
 import socket
 import time
 from common.variables import ACTION, PRESENCE, TIME, USER, ACCOUNT_NAME, \
-    RESPONSE, ERROR, DEFAULT_IP_ADDRESS, DEFAULT_PORT
+    RESPONSE, ERROR, DEFAULT_IP_ADDRESS, DEFAULT_PORT, LOGGER_NAME_CLIENT
 from common.utils import get_message, send_message
 
-from  log.config_client_log import get_client_logger
-logger = get_client_logger()
+from  log.config_client_log import client_logger
+logger = logging.getLogger(LOGGER_NAME_CLIENT)
 
 class Client:
 
