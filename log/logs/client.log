@@ -1,0 +1,28 @@
+2022-01-29 14:24:39,386 CRITICAL config_client_log.py Критическая ошибка
+2022-01-29 14:24:39,386 ERROR config_client_log.py Ошибка
+2022-01-29 14:24:39,386 DEBUG config_client_log.py Отладочная информация
+2022-01-29 14:24:39,386 INFO config_client_log.py Информационное сообщение
+2022-01-29 14:29:22,921 INFO client.py 200 : OK
+2022-01-29 14:30:29,155 INFO client.py 200 : OK
+2022-01-29 17:49:26,364 CRITICAL config_client_log.py Критическая ошибка
+2022-01-29 17:49:26,364 ERROR config_client_log.py Ошибка
+2022-01-29 17:49:26,364 DEBUG config_client_log.py Отладочная информация
+2022-01-29 17:49:26,364 INFO config_client_log.py Информационное сообщение
+2022-01-29 19:58:58,098 DEBUG client.py Была вызвана функция __get_settings c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции get_transport
+2022-01-29 19:58:58,101 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 19:58:58,103 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 19:58:58,108 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 19:58:58,108 INFO client.py 200 : OK
+2022-01-29 19:58:58,109 DEBUG client.py Была вызвана функция send_message c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-01-29 20:00:57,251 DEBUG client.py Была вызвана функция __get_settings c параметрами (<__main__.Client object at 0x000001CF985D5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции get_transport
+2022-01-29 20:00:57,254 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001CF985D5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:00:57,256 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001CF985D5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:00:57,263 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001CF985D5DB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:00:57,264 INFO client.py 200 : OK
+2022-01-29 20:00:57,265 DEBUG client.py Была вызвана функция send_message c параметрами (<__main__.Client object at 0x000001CF985D5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-01-29 20:01:23,750 DEBUG client.py Была вызвана функция __get_settings c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции get_transport
+2022-01-29 20:01:23,753 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:01:23,755 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:01:23,762 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:01:23,762 INFO client.py 200 : OK
+2022-01-29 20:01:23,764 DEBUG client.py Была вызвана функция send_message c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
